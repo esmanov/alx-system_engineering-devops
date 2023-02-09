@@ -1,5 +1,2 @@
-#!/bin/bash
-
-# My first script
-
-echo "su betty!"
+#!/bin/bash 
+echo "su betty"
