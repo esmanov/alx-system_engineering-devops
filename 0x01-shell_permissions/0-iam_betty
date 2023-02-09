@@ -1,1 +1,5 @@
-su betty
+#!/bin/bash
+
+# My first script
+
+echo "su betty!"
