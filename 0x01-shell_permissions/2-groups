@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo -g
+echo "groups" >> 2-groups
